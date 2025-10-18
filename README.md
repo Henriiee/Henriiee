@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Henrie 💕
-I'm an engineer, Cyber Analyst, and Upcoming Dev😁. Here you'll find everything i've worked on or still working on. 
+I'm an Engineer, Cyber Analyst, and Upcoming Dev😁. Here you'll find everything i've worked on or still working on. 
 
 ---
 - 🌱 I’m currently learning: Cybersecurity and DevOps
