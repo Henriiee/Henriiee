@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi there 👋, I'm Henrie 💕
+I'm an engineer, Cyber Analyst, and Upcoming Dev😁. Here you'll find everything i've worked on or still working on. 
 
+---
+- 🌱 I’m currently learning: Cybersecurity and DevOps
+- 💡 I love: Solving problems and exploring new technologies
+- 💬 Ask me about: Cyber risk, factory automation, and tech transitions
+- ⚡ Fun fact: I was one of only 8 girls in my engineering class!
 <!--
 **Henriiee/Henriiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
